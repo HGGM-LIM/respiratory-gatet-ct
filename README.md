@@ -31,6 +31,6 @@ The repository contains the following files:
 
 - **DemoReadData.m:** This demo loads data for all scenarios that have been used in the paper
 
-Data has been saved using MATLAB R2012b
+Data has been saved using MATLAB R2012b.
 
 If you need to contact the author, please do so at mabella (AT) mce (DOT) hggm (DOT) es.
